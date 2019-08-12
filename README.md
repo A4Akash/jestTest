@@ -6,3 +6,5 @@
 
 #Add ES6 support with babel
 * npm install --save-dev babel-plugin-transform-es2015-modules-commonjs
+* Add .babelrc file
+
